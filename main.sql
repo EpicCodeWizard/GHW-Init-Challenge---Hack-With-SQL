@@ -4,8 +4,8 @@ create table challenges {
   ChallengeName varchar(255),
 };
 insert into challenges (
-  ChallengeName
+  ChallengeName,
 )
 values (
-  'Hack With SQL'
+  'Hack With SQL',
 );
